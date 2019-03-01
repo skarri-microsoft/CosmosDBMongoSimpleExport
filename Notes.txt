@@ -1,8 +1,0 @@
-No worries Jason, I was able to help answer their questions. There will be another follow-up later next week.
-
-Here is the summary of the discussion:
-
-Expecting load: 150 customers, Per day 6GB data, Retention period: 6 days
-Work load type: Write heavy
-Reads: Generating rollups on the data like count etc
-Provisioning model: Database shared thoughtput or 
